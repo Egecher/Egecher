@@ -1,4 +1,4 @@
- [![MasterHead](https://hypernet.com.tr/dimg/icerik/293732243425900284632.png)
+ ![MasterHead](https://hypernet.com.tr/dimg/icerik/293732243425900284632.png)
 <h1 align="center">Hi 👋, I'm Egemen UYSAL</h1>
 <h3 align="center">A passionate frontend and backend developer from Turkey</h3>
 
